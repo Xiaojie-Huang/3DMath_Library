@@ -5,11 +5,11 @@ Focus on Math Problem in CG
 ## Vector
 using float  
 Functions
-*The vector times and divided by the scalar
-*Inverse of vector
-*Vector addition and subtraction
-*Dot
-*CrossProduct
-*Distance Function
-*Global Zero Vector
+* The vector times and divided by the scalar
+* Inverse of vector
+* Vector addition and subtraction
+* Dot
+* CrossProduct
+* Distance Function
+* Global Zero Vector
 
